@@ -1,0 +1,8 @@
+Git Github Introduction 
+Introduction To GIT Class 1
+
+#COMMANDS
+git --version //to check version of git in system
+
+git init //start tracking for particular files/folder
+git add file_Name //modification/adding
